@@ -5,7 +5,7 @@ This <a href="https://www.netflix.com/title/80057281" target="_blank">*Stranger 
 
 ![](https://raw.githubusercontent.com/CLewisMessina/Udacity_PixelArtMaker/master/pixel_art_maker/img/PAM.png)
 
-**Code base:** HTML, CSS, jQuery, JSON
+**Code base:** HTML, CSS, JavaScript, jQuery, JSON
 
 **JS Libraries:** jQuery, SnapSVGAnimator
 
