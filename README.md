@@ -1,7 +1,7 @@
 ﻿
 # Pixel Art Maker
 
-This <a href="https://www.netflix.com/title/80057281" target="_blank">*Stranger Things*</a> themed program enable users to create pixel art based on a grid size of their specification.
+This <a href="https://www.netflix.com/title/80057281" target="_blank">*Stranger Things*</a> themed program enables users to create pixel art based on a grid size of their specification.
 
 ![](https://raw.githubusercontent.com/CLewisMessina/Udacity_PixelArtMaker/master/pixel_art_maker/img/PAM.png)
 
